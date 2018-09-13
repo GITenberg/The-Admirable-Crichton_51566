@@ -1,0 +1,33 @@
+_repo: The-Admirable-Crichton_51566
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    aliases:
+    - Barrie, J.M.
+    - Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+  editor:
+    agent_name: Rose, Temi
+    gutenberg_agent_id: '46494'
+    url: http://www.gutenberg.org/2009/agents/46494
+description: ''
+gutenberg_issued: '2016-04-02'
+gutenberg_type: Sound
+identifiers:
+  gutenberg: '51566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks -- Drama'
+- !lcsh 'Manners and customs -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: The Admirable Crichton
+url: http://www.gutenberg.org/ebooks/51566
